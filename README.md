@@ -3,8 +3,6 @@
 
 ## Setup
 
-test
-
 ```
 py --version
 which python
