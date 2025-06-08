@@ -1,0 +1,10 @@
+myenv
+llm/model_1_dense
+node_modules
+dist
+.vscode/*
+!.vscode/extensions.json
+*.log
+static/images/*
+tmp
+.env
